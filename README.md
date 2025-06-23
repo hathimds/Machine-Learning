@@ -53,4 +53,4 @@ Each project is saved in its own folder and includes:
 
 **Haathim Manaf**  
 🔗 [GitHub](https://github.com/hathimds)  
-🔗 [LinkedIn](www.linkedin.com/in/haathim-manaf-01551131b)
+🔗 [LinkedIn](https://www.linkedin.com/in/haathim-manaf-01551131b)
